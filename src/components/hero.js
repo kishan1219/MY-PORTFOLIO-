@@ -5,7 +5,7 @@ const Hero = () => {
     <div className="hero-container">
       <Image src='/images/about.jpg' className="profile-img" width={300} height={300} alt="Joe's personal headshot" />
       <div className="hero-text">
-        <h1>Hey, I'm Kishan 👋</h1>
+        <h1>Hey, I'm Kishan Gupta 👋</h1>
         <p>
           I'm a ReactJs developer. I specialize in building (and occasionally designing)
           exceptional websites, applications, and everything in between.
